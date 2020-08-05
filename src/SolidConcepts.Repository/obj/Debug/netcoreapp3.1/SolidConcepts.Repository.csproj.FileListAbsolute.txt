@@ -1,0 +1,9 @@
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\bin\Debug\netcoreapp3.1\SolidConcepts.Repository.deps.json
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\bin\Debug\netcoreapp3.1\SolidConcepts.Repository.dll
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\obj\Debug\netcoreapp3.1\SolidConcepts.Repository.csprojAssemblyReference.cache
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\obj\Debug\netcoreapp3.1\SolidConcepts.Repository.AssemblyInfoInputs.cache
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\obj\Debug\netcoreapp3.1\SolidConcepts.Repository.AssemblyInfo.cs
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\bin\Debug\netcoreapp3.1\SolidConcepts.Repository.pdb
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\obj\Debug\netcoreapp3.1\SolidConcepts.Repository.csproj.CoreCompileInputs.cache
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\obj\Debug\netcoreapp3.1\SolidConcepts.Repository.dll
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Repository\obj\Debug\netcoreapp3.1\SolidConcepts.Repository.pdb

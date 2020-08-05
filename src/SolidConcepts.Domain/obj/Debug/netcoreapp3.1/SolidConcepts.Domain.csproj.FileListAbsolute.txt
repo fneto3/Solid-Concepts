@@ -1,0 +1,12 @@
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\bin\Debug\netcoreapp3.1\SolidConcepts.Domain.deps.json
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\bin\Debug\netcoreapp3.1\SolidConcepts.Domain.dll
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\bin\Debug\netcoreapp3.1\SolidConcepts.Domain.pdb
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.AssemblyInfoInputs.cache
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.AssemblyInfo.cs
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.dll
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.pdb
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.csprojAssemblyReference.cache
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\bin\Debug\netcoreapp3.1\SolidConcepts.Repository.dll
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\bin\Debug\netcoreapp3.1\SolidConcepts.Repository.pdb
+C:\Users\U002577\Documents\GitHub\Solid-Concepts\src\SolidConcepts.Domain\obj\Debug\netcoreapp3.1\SolidConcepts.Domain.csproj.CopyComplete
