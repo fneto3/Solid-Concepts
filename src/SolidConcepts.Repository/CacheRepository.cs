@@ -8,6 +8,7 @@ namespace SolidConcepts.Repository
 {
     public class CacheRepository
     {
+        // Here i can use different technologies to implement the cache.
         private MemoryCache _cache = new MemoryCache(new MemoryCacheOptions());
 
         public string Get(string key)
